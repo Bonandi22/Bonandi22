@@ -1,7 +1,14 @@
 ### Olá!! Eu sou o Elker Bonandi ✌️
 
+</div><br/>
+🖥️ Apaixonado por programação!
+
+📚 Estudante de programação!
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elker_bonandi/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elker-bonandi/)
+
 
 ![Elker GitHub stats](https://github-readme-stats.vercel.app/api?username=Bonandi22&show_icons=true&theme=dark)
 
