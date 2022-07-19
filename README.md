@@ -1,9 +1,13 @@
-### Olá!! Eu sou o Elker Bonandi ✌️
+### Hello!! I'm Elker Bonandi ✌️
 
 </div><br/>
-🖥️ Apaixonado por programação!
+🖥️ in love for Programming 
+📚 Programming student!
+🧑‍🎓 learning always something!
 
-📚 Estudante de programação!
+### Connect with me
+</div><br/>
+
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elker_bonandi/)
