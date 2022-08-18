@@ -24,7 +24,9 @@
 <img align="center" alt="C#" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 </div><br/>
 
-😉 Cursando Academia Junior Developer desde Março/2022 na Assembly, com duraçao de 12 meses.
+😉 Cursando Academia Junior Developer desde Março/2022 na Assembly, com duraçao de 12 meses. <br>
+😉 Cursando Desenvolvimento WEB completo na Udemy (Cursos Online). <br>
+😉 Cursando C# Completo - POO na Udemy (Cursos Online), como complemento.
 
 ### Tecnologias a estudar na Academia Junior Developer
 
