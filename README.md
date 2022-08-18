@@ -1,8 +1,8 @@
 ### Hello!! I'm Elker Bonandi ✌️
 
 </div><br/>
-🖥️ in love for Programming 
-📚 Programming student!
+🖥️ in love for Programming <br>
+📚 Programming student!<br>
 🧑‍🎓 learning always something!
 
 ### Connect with me
