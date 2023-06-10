@@ -1,8 +1,9 @@
 # Olá! Eu sou Elker Bonandi.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/elker_bonandi/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/elker-bonandi/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
+](https://www.instagram.com/elker_bonandi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+](https://www.linkedin.com/in/elker-bonandi/)
 
 ## Sobre Mim
 Eu sou um entusiasta da programação e estou constantemente buscando aprender coisas novas. Tenho experiência com desenvolvimento de software utilizando as seguintes tecnologias:
