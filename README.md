@@ -6,25 +6,37 @@
 ](https://www.linkedin.com/in/elker-bonandi/)
 
 ## Sobre Mim
-Eu sou um entusiasta da programação e estou constantemente buscando aprender coisas novas. Tenho experiência com desenvolvimento de software utilizando as seguintes tecnologias:
+Eu sou um entusiasta da programação e estou constantemente buscando aprender coisas novas. Tenho experiência acadêmica e em projetos pessoais com as seguintes tecnologias:
 
 - 🌱 Atualmente, estou aprimorando minhas habilidades em .NET Core, Angular e C#.
 - 👯 Estou procurando colaborar em projetos relacionados a desenvolvimento web.
 - 💬 Me pergunte sobre desenvolvimento com .NET, Angular ou C#.
 
+Sou um programador determinado, com uma habilidade natural para aprender rapidamente. Sempre me esforço para enfrentar novos desafios e me manter atualizado com as últimas tendências e tecnologias. Acredito na importância de estudos constantes para aprimorar minhas habilidades e entregar soluções de alta qualidade.
+
+Estou sempre em busca de oportunidades para expandir meu conhecimento e contribuir para projetos inovadores. Se você está em busca de um colaborador dedicado, apaixonado por programação e comprometido com a excelência, estou pronto para enfrentar novos desafios e aprender cada vez mais.
+
 ## Tecnologias e Ferramentas
 
 - Linguagens de programação: 
    ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 - Frameworks e bibliotecas: 
-   ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-   ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+   ![AngularJS](https://img.shields.io/badge/AngularJS-%23E23237.svg?style=flat&logo=angularjs&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+   ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-%237FCAAD.svg?style=flat&logo=.net&logoColor=white)
+   ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-%235C2D91.svg?style=flat&logo=.net&logoColor=white)
 - Bancos de Dados: 
-   ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-- Ferramentas de desenvolvimento: 
-   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
-   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
+   ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+- Metodologias: 
+   ![Agile](https://img.shields.io/badge/Agile-%230077B5.svg?style=flat&logo=agile&logoColor=white)
+   ![Scrum](https://img.shields.io/badge/Scrum-%23106589.svg?style=flat&logo=scrum&logoColor=white)
+- Outras habilidades: 
+   ![OOP](https://img.shields.io/badge/OOP-%23007ACC.svg?style=flat&logo=oop&logoColor=white)
+
 - Outras habilidades técnicas: HTML, CSS, Git
 
 ## Projetos Destacados
