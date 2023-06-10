@@ -26,6 +26,10 @@ I'm always looking for opportunities to expand my knowledge and contribute to in
    ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
    
+   - Development tools: 
+   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
+   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACCstyle=flat&logo=visual%20studio%20code&logoColor=white)
+   
 - Frameworks and Libraries: 
    ![AngularJS](https://img.shields.io/badge/AngularJS-%23E23237.svg?style=flat&logo=angularjs&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
