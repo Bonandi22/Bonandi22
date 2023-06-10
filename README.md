@@ -8,7 +8,7 @@
 I am a programming enthusiast and I'm constantly seeking to learn new things. I have academic experience and personal projects with the following technologies:
 
 - 🌱 Currently, I am enhancing my skills in .NET Core, Angular, and C#.
-- 👯 I'm looking to collaborate on web development projects.
+- 👯 I'm looking to collaborate on web development projects and API.
 - 💬 Ask me about .NET development, Angular, or C#.
 
 I am a determined junior programmer with a natural ability to learn quickly. I always strive to take on new challenges and stay up-to-date with the latest trends and technologies. I believe in the importance of continuous learning to enhance my skills and deliver high-quality solutions.
