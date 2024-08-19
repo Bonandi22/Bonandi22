@@ -5,15 +5,7 @@
 
 ## About Me
 
-I am a programming enthusiast and I'm constantly seeking to learn new things. I have academic experience and personal projects with the following technologies:
-
-- 🌱 Currently, I am enhancing my skills in .NET Core, Angular, and C#.
-- 👯 I'm looking to collaborate on web development projects and API.
-- 💬 Ask me about .NET development, Angular, or C#.
-
-I am a determined junior programmer with a natural ability to learn quickly. I always strive to take on new challenges and stay up-to-date with the latest trends and technologies. I believe in the importance of continuous learning to enhance my skills and deliver high-quality solutions.
-
-I'm always looking for opportunities to expand my knowledge and contribute to innovative projects. If you are seeking a dedicated team member who is passionate about programming and committed to excellence, I'm ready to take on new challenges and continue learning.
+Full-Stack .NET Developer with nearly 2 years of hands-on experience. My skills include developing RESTful APIs and web applications using ASP.NET Core and ASP.NET MVC for backend development, as well as working with Entity Framework Core (EF Core) for data access. I am also experienced in creating dynamic and responsive user interfaces using AngularJS and Bootstrap.
 
 ## Technologies and Tools
 
