@@ -1,55 +1,82 @@
-# Hi there! I'm Elker Bonandi.
+# 👋 Hi there! I'm **Elker Bonandi**
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/elker_bonandi/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elker-bonandi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elker-bonandi/)  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Bonandi22)  
 
-## About Me
+---
 
-Full-Stack .NET Developer with nearly 2 years of hands-on experience. My skills include developing RESTful APIs and web applications using ASP.NET Core and ASP.NET MVC for backend development, as well as working with Entity Framework Core (EF Core) for data access. I am also experienced in creating dynamic and responsive user interfaces using AngularJS and Bootstrap.
+## 🚀 About Me  
 
-## Technologies and Tools
+I'm an enthusiastic and proactive **Full-Stack .NET Developer** with almost 2 years of experience building robust web applications. I enjoy learning and applying new technologies, focusing on developing clean, functional code.  
 
-- Programming Languages: 
-   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
-   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-   
-- Markup and Styling Languages: 
-   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-   
-- Development tools: 
-   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
-   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACCstyle=flat&logo=visual%20studio%20code&logoColor=white)
-   
-- Frameworks and Libraries: 
-   ![AngularJS](https://img.shields.io/badge/AngularJS-%23E23237.svg?style=flat&logo=angularjs&logoColor=white)
-   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-   ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-%237FCAAD.svg?style=flat&logo=.net&logoColor=white)
-   ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-%235C2D91.svg?style=flat&logo=.net&logoColor=white)
-   
-- Databases: 
-   ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-   
-- Methodologies: 
-   ![Agile](https://img.shields.io/badge/Agile-%230077B5.svg?style=flat&logo=agile&logoColor=white)
-   ![Scrum](https://img.shields.io/badge/Scrum-%23106589.svg?style=flat&logo=scrum&logoColor=white)
-   
-- Other Skills: 
-   HTML, CSS, Git hub e Object Oriented Programming (OOP).
+### **Core Expertise**  
+- **Backend Development**: ASP.NET Core, Entity Framework Core, and SQL Server.  
+- **Frontend Development**: Angular and Bootstrap for creating responsive, user-friendly interfaces.  
+- **RESTful API Design**: Building secure, scalable APIs for diverse applications.  
+- **Unit Testing**: Designing reliable tests to ensure code quality and maintainability.  
 
-## Professional Experience / Academic
+I'm always looking for opportunities to improve my skills, contribute to team success, and solve real-world problems with technology.  
 
-- Assembly school (https://assembly.pt/) - Object Oriented Programming (OOP), frontend, Backend, SQL Server, ASP.NET and ADO.NET;
+---
 
-## Certifications
+## 🛠️ Technologies and Skills  
 
-- JUNIOR DEVELOPER ACADEMY - Assembly
-- Full-Stack with .NET API + Angular - Udemy
-- Web API with .NET - Udemy
-- DevOps - CDI Portugal
+### **Programming Languages**  
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
 
-## Contact
+### **Frameworks and Tools**  
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%235C2D91.svg?style=flat&logo=.net&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)  
 
-- Email: elkerbonandi@gmail.com
+### **Databases**  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft%20sql%20server&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)  
+
+### **Development Practices**  
+- RESTful API Design  
+- Agile Methodologies (Scrum)  
+- Technical Documentation  
+- Unit Testing and Test-Driven Development  
+
+---
+
+## 💼 Professional Experience  
+
+### **Full-Stack .NET Developer**  
+**Non-Profit Organization** *(May 2023 – Present)*  
+- Maintained and developed full-stack applications using **C#**, **ASP.NET Core**, and **.NET Framework**.  
+- Designed and implemented secure, scalable RESTful APIs for data-driven applications.  
+- Collaborated on requirement analysis and planning of comprehensive software solutions.  
+- Ensured security and performance standards across the codebase.  
+- Created unit tests to guarantee code reliability and maintainability.  
+- Participated in agile meetings to align deliverables with business goals.  
+
+---
+
+## 📚 Education  
+
+### **Software Development Academy**  
+**Assembly School** — Lisbon, Portugal *(Mar 2022 – Apr 2023)*  
+
+### **Master in Human Resource Management**  
+**Universidade Europeia** — Lisbon, Portugal *(2019 – Present)*  
+
+### **Business Management Degree**  
+**Centro Universitário São Camilo** — Espírito Santo, Brazil *(2006 – 2011)*  
+
+---
+
+## 🌍 Languages  
+
+- **Portuguese**: Native  
+- **English**: Advanced (B2)  
+
+---
+
+## 📩 Contact  
+
+- **LinkedIn**: [linkedin.com/in/elker-bonandi](https://www.linkedin.com/in/elker-bonandi/)  
+
+---
