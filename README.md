@@ -9,10 +9,13 @@
 I'm an enthusiastic and proactive **Full-Stack .NET Developer** with almost 2 years of experience building robust web applications. I enjoy learning and applying new technologies, focusing on developing clean, functional code.  
 
 ### **Core Expertise**  
-- **Backend Development**: ASP.NET Core, Entity Framework Core, and SQL Server.  
+- **Backend Development**: C#, .NET Core, ASP.NET MVC, EF Core.  
 - **Frontend Development**: Angular and Bootstrap for creating responsive, user-friendly interfaces.  
-- **RESTful API Design**: Building secure, scalable APIs for diverse applications.  
-- **Unit Testing**: Designing reliable tests to ensure code quality and maintainability.  
+- **Databases**: SQL Server, MySQL.
+- **DevOps**: Docker, Azure.
+- **Unit Testing**: Unit Testing.
+- **Methodologies**: Agile (Scrum).
+
 
 I'm always looking for opportunities to improve my skills, contribute to team success, and solve real-world problems with technology.  
 
@@ -46,12 +49,12 @@ I'm always looking for opportunities to improve my skills, contribute to team su
 
 ### **Full-Stack .NET Developer**  
 **Non-Profit Organization** *(May 2023 – Present)*  
-- Maintained and developed full-stack applications using **C#**, **ASP.NET Core**, and **.NET Framework**.  
-- Designed and implemented secure, scalable RESTful APIs for data-driven applications.  
-- Collaborated on requirement analysis and planning of comprehensive software solutions.  
-- Ensured security and performance standards across the codebase.  
-- Created unit tests to guarantee code reliability and maintainability.  
-- Participated in agile meetings to align deliverables with business goals.  
+- Developed and maintained Full-Stack applications using C#, .NET Core, and .NET Framework. 
+- Collaborated on requirements analysis and planning of scalable solutions. 
+- Designed and implemented RESTful APIs and integrated with SQL Server and MySQL databases.  
+- Ensured security, performance, and code quality through unit testing and best practices.
+- Participated in agile meetings and created technical documentation. 
+- Utilized Docker and deployed solutions to Azure.  
 
 ---
 
