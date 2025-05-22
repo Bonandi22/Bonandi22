@@ -19,7 +19,7 @@ Full-Stack Developer with practical experience in real-world projects using .NET
 - 🔹 **Frontend**: Angular, TypeScript, Angular Material
 - 🔹 **Architecture**: Clean Architecture, Layered Architecture, Dependency Injection
 - 🔹 **DevOps**: Docker, GitHub, Azure DevOps
-- 🔹 **Testing**: xUnit, Global Exception Handling, Unit & Integration Testing
+- 🔹 **Testing**: xUnit, Global Exception Handling, Unit Testing
 - 🔹 **Project Management**: Agile (Scrum), Jira, Trello
 
 ---
