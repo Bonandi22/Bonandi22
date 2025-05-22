@@ -1,85 +1,73 @@
-# 👋 Hi there! I'm **Elker Bonandi**
+# 👋 Hi there! I'm **Elker Bonandi**  
+### Full-Stack .NET Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elker-bonandi/)  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Bonandi22)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin)](https://www.linkedin.com/in/elker-bonandi/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?logo=github)](https://github.com/Bonandi22)  
+[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?logo=gmail)](mailto:elkerbonandi@gmail.com)  
 
 ---
 
 ## 🚀 About Me  
 
-I'm an enthusiastic and proactive **Full-Stack .NET Developer** with almost 2 years of experience building robust web applications. I enjoy learning and applying new technologies, focusing on developing clean, functional code.  
-
-### **Core Expertise**  
-- **Backend Development**: C#, .NET Core, ASP.NET MVC, EF Core.  
-- **Frontend Development**: Angular and Bootstrap for creating responsive, user-friendly interfaces.  
-- **Databases**: SQL Server, MySQL.
-- **DevOps**: Docker, Azure.
-- **Unit Testing**: Unit Testing.
-- **Methodologies**: Agile (Scrum).
-
-
-I'm always looking for opportunities to improve my skills, contribute to team success, and solve real-world problems with technology.  
+Full-Stack Developer with practical experience in real-world projects using .NET Core, Angular, and modern software engineering practices. Skilled in layered architecture (Clean Architecture), dependency injection, global exception handling, and automated testing with xUnit. Familiar with Docker, Swagger, and CI/CD pipelines using GitHub Actions and Azure DevOps. Capable of contributing across the full stack with a strong focus on code quality, maintainability, and continuous learning. Currently progressing from junior to mid-level with increasing autonomy and technical ownership.
 
 ---
 
-## 🛠️ Technologies and Skills  
+## 🛠️ Tech Stack  
 
-### **Programming Languages**  
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
+### **Backend Expertise**  
+![.NET Core](https://img.shields.io/badge/.NET%20Core-5C2D91?logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?logo=.net&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-100000?logo=xunit&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
 
-### **Frameworks and Tools**  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%235C2D91.svg?style=flat&logo=.net&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)  
+### **Frontend Skills**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-### **Databases**  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft%20sql%20server&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)  
-
-### **Development Practices**  
-- RESTful API Design  
-- Agile Methodologies (Scrum)  
-- Technical Documentation  
-- Unit Testing and Test-Driven Development  
+### **DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 
 ---
 
-## 💼 Professional Experience  
+## 💼 Professional Highlights  
 
-### **Full-Stack .NET Developer**  
-**Non-Profit Organization** *(May 2023 – Present)*  
-- Developed and maintained Full-Stack applications using C#, .NET Core, and .NET Framework. 
-- Collaborated on requirements analysis and planning of scalable solutions. 
-- Designed and implemented RESTful APIs and integrated with SQL Server and MySQL databases.  
-- Ensured security, performance, and code quality through unit testing and best practices.
-- Participated in agile meetings and created technical documentation. 
-- Utilized Docker and deployed solutions to Azure.  
+### **Full-Stack Developer @ Non-profit Organization**  
+*(May 2023 - Present)*  
 
----
+✔ Built web applications serving **200+ active users** using **.NET Core + Angular**  
+✔ Implemented **JWT authentication** with refresh tokens and role-based access  
+✔ Designed **Clean Architecture** solutions with proper layer separation  
+✔ Developed **RESTful APIs** with global exception handling and Swagger docs  
+✔ Improved frontend performance via **lazy loading** and **local caching**  
+✔ Automated CI/CD pipelines using **Docker, GitHub Actions, Azure DevOps**  
+✔ Practiced **Agile Scrum** with Jira/Trello for project management  
 
-## 📚 Education  
 
-### **Software Development Academy**  
-**Assembly School** — Lisbon, Portugal *(Mar 2022 – Apr 2023)*  
+## 📚 Education & Certifications  
 
-### **Master in Human Resource Management**  
-**Universidade Europeia** — Lisbon, Portugal *(2019 – Present)*  
-
-### **Business Management Degree**  
-**Centro Universitário São Camilo** — Espírito Santo, Brazil *(2006 – 2011)*  
+🎓 **Full-Stack Development** - Assembly School (Lisbon)  
+🎓 **Master's in HR Management** - Universidade Europeia (Ongoing)  
+🎓 **Business Administration** - São Camilo University  
 
 ---
 
 ## 🌍 Languages  
 
-- **Portuguese**: Native  
-- **English**: Advanced (B2)  
+🇵🇹 Portuguese (Native)  
+🇬🇧 English (Advanced - B2)  
 
 ---
 
-## 📩 Contact  
+## 📬 Let's Connect!  
 
-- **LinkedIn**: [linkedin.com/in/elker-bonandi](https://www.linkedin.com/in/elker-bonandi/)  
+I'm always open to interesting discussions, collaborations, or new opportunities.  
 
----
+📧 [elkerbonandi@gmail.com](mailto:elkerbonandi@gmail.com)  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/elker-bonandi/)  
+🐱‍💻 [GitHub Projects](https://github.com/Bonandi22)  
