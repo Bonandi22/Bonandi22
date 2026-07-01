@@ -13,6 +13,21 @@ Full-Stack Developer with practical experience in real-world projects using .NET
 
 ---
 
+## 📌 Featured Project — ICM Solution
+
+[![Repo](https://img.shields.io/badge/GitHub-IcmSolution-181717?logo=github)](https://github.com/Bonandi22/IcmSolution)
+[![CI/CD](https://github.com/Bonandi22/IcmSolution/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Bonandi22/IcmSolution/actions/workflows/ci-cd.yml)
+
+A treasury and membership management system for a real non-profit organization (Igreja Cristã Maranata, Portugal) — in active production use, handling real member and financial data across multiple churches.
+
+- **5 independent microservices** (.NET 8, Clean Architecture) behind a **YARP API Gateway** with rate limiting
+- **Security hardening**: JWT in HttpOnly cookies, Argon2id password hashing, SHA-256-hashed refresh tokens, per-church data isolation enforced server-side (not just trusted from the client), and protection against mass-assignment on write endpoints
+- **Role-based permission system** — 7 organizational roles mapped to granular endpoint permissions
+- **Full CI/CD** — GitHub Actions builds, tests, and pushes 7 Docker images to GHCR on every merge to `master`
+- Angular 19 frontend with lazy-loaded modules, consuming all 5 services through the gateway
+
+---
+
 ## 🧠 Core Expertise
 
 - 🔹 **Backend**: C#, ASP.NET Core, REST APIs, Entity Framework Core
