@@ -5,9 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-elker--bonandi-0A66C2?logo=linkedin)](https://www.linkedin.com/in/elker-bonandi/)
 [![Email](https://img.shields.io/badge/Email-elkerbonandi%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:elkerbonandi@gmail.com)
 
-I build and maintain production software with C#, ASP.NET Core and Angular, with a focus on
+I build and maintain software with C#, ASP.NET Core and Angular, with a focus on
 security, clean architecture and automated quality gates. Since 2023 I have been developing a
-multi-tenant treasury system used by a real non-profit across multiple churches in Portugal.
+multi-tenant treasury system for a real non-profit with multiple churches in Portugal.
 Before software, I spent 10+ years in operations, HR and commercial management — which is why I
 care about software that real people depend on.
 
@@ -15,10 +15,10 @@ care about software that real people depend on.
 
 ## Featured work
 
-### ICM Solution — multi-tenant treasury & membership platform · *in production*
-`.NET 8` `ASP.NET Core` `Angular 22` `YARP` `RabbitMQ` `SQL Server` `Docker` `GitHub Actions`
+### ICM Solution — multi-tenant treasury & membership platform
+`.NET 10` `ASP.NET Core` `Angular 22` `YARP` `RabbitMQ` `SQL Server` `Docker` `GitHub Actions`
 
-Treasury and membership management for Igreja Cristã Maranata (Portugal), handling real member and
+Treasury and membership management for Igreja Cristã Maranata (Portugal), designed for real member and
 financial data across multiple churches.
 
 - **5 microservices** (Clean Architecture) behind a **YARP API Gateway** with rate limiting
@@ -30,7 +30,7 @@ financial data across multiple churches.
 - Recent work: Angular upgrade to v22, dependency vulnerabilities reduced from 20 to 0,
   WCAG 2.2 accessibility fixes
 
-> The repository is private because it holds real member and financial data.
+> The source repository is private because the system is designed for real member and financial data.
 > I am happy to walk through the code and architecture in an interview.
 
 ### [Academia .NET](https://github.com/Bonandi22/academia-dotnet-app) — interview-prep learning platform
