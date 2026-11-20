@@ -45,7 +45,7 @@ progress synced to the API.
 Each of the 66 books in context: author, audience, history, prophecies — editorial content served
 by an ASP.NET Core API, with authentication and an admin area.
 
-### [Fishing Legends](https://github.com/Bonandi22/deep-blue-lure) — full-stack 3D game
+### [Fishing Legends](https://github.com/Bonandi22/fishing-legends) — full-stack 3D game
 `React` `Three.js` `TypeScript` `Fastify` `PostgreSQL`
 
 3D fishing game where the backend is the authority over identity, progress and economy:
