@@ -15,7 +15,7 @@ care about software that real people depend on.
 
 ## Featured work
 
-### ICM Solution — multi-tenant treasury & membership platform
+### [ICM Solution](https://github.com/Bonandi22/icm-solution-showcase) — multi-tenant treasury & membership platform
 `.NET 10` `ASP.NET Core` `Angular 22` `YARP` `RabbitMQ` `SQL Server` `Docker` `GitHub Actions`
 
 Treasury and membership management for Igreja Cristã Maranata (Portugal), designed for real member and
@@ -31,7 +31,8 @@ financial data across multiple churches.
   WCAG 2.2 accessibility fixes
 
 > The source repository is private because the system is designed for real member and financial data.
-> I am happy to walk through the code and architecture in an interview.
+> Architecture, security design and code excerpts: **[icm-solution-showcase](https://github.com/Bonandi22/icm-solution-showcase)**.
+> I am happy to walk through the full codebase in an interview.
 
 ### [Academia .NET](https://github.com/Bonandi22/academia-dotnet-app) — interview-prep learning platform
 `ASP.NET Core 8` `Angular` `SQL Server` `JWT` `Modular monolith`
