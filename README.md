@@ -7,7 +7,7 @@
 
 I build and maintain software with C#, ASP.NET Core and Angular, with a focus on
 security, clean architecture and automated quality gates. Since 2023 I have been developing a
-multi-tenant treasury system for a real non-profit with multiple churches in Portugal.
+multi-tenant treasury system that is in use by a real non-profit with multiple churches in Portugal.
 Before software, I spent 10+ years in operations, HR and commercial management — which is why I
 care about software that real people depend on.
 
@@ -15,10 +15,10 @@ care about software that real people depend on.
 
 ## Featured work
 
-### [ICM Solution](https://github.com/Bonandi22/icm-solution-showcase) — multi-tenant treasury & membership platform
+### [ICM Solution](https://github.com/Bonandi22/icm-solution-showcase) — multi-tenant treasury & membership platform · *in use*
 `.NET 10` `ASP.NET Core` `Angular 22` `YARP` `RabbitMQ` `SQL Server` `Docker` `GitHub Actions`
 
-Treasury and membership management for Igreja Cristã Maranata (Portugal), designed for real member and
+Treasury and membership management for Igreja Cristã Maranata (Portugal), in use with real member and
 financial data across multiple churches.
 
 - **5 microservices** (Clean Architecture) behind a **YARP API Gateway** with rate limiting
@@ -30,7 +30,7 @@ financial data across multiple churches.
 - Recent work: Angular upgrade to v22, dependency vulnerabilities reduced from 20 to 0,
   WCAG 2.2 accessibility fixes
 
-> The source repository is private because the system is designed for real member and financial data.
+> The source repository is private because it holds real member and financial data.
 > Architecture, security design and code excerpts: **[icm-solution-showcase](https://github.com/Bonandi22/icm-solution-showcase)**.
 > I am happy to walk through the full codebase in an interview.
 
